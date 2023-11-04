@@ -20,7 +20,7 @@ Note :
 
 To see admin page 
 search in search bar
-localhost:3000/admin.
+./localhost:3000/admin.
 so in ./admin page will get admin profile but user can't see list of users below and also can't add quiz questions to it only admin can do this
 
 
