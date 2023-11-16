@@ -1,4 +1,4 @@
-//creating quiz
+
 export const CREATE_QUIZ_REQUEST = "CREATE_QUIZ_REQUEST";
 export const CREATE_QUIZ_SUCCESS = "CREATE_QUIZ_SUCCESS";
 export const CREATE_QUIZ_FAILURE = "CREATE_QUIZ_FAILURE";
