@@ -1,7 +1,6 @@
 import * as types from "./actiontype.js";
 import axios from "axios";
 
-// Create quiz in redux store
 export const quizRequest = () => {
   return {
     type: types.CREATE_QUIZ_REQUEST,
