@@ -32,7 +32,7 @@ To show all questions in the quiz I have made db.json files so that others can a
 Note : 
 
 For questions in  db.json and finaldb.json, I have these questions from myself  so I feel good to add these questions for reference in this assignment.
-
+ 
 
 
 Set up to run the code:
