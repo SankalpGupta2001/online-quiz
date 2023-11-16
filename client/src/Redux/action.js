@@ -46,7 +46,7 @@ const getCountSuccess = (payload) => {
   };
 };
 
-//---------- login user ----------
+
 
 export const loginUserName = (payload) => {
   return {
@@ -81,7 +81,7 @@ export const loginAdminName = (payload) => {
   };
 };
 
-// ----------------------- action creator function for  details of user  for admin page ---------------
+//action creator function for  details of user  for admin page 
 
 const getAllUserDataRequest = (payload) => {
   return {
