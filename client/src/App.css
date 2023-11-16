@@ -1,7 +1,7 @@
  .App{
   background-color:linear-gradient(rgb(186, 54, 54), rgb(206, 21, 21), rgb(171, 129, 129))
 } 
-/* -----------------topicquize page------------- */
+
 .topicdiv{
   background-color:rgb(27,169,76)
 }
@@ -13,7 +13,6 @@
 }
 
 
-/* ----------   anwer tag     ------------- */
 .hoverOption:hover{
  font-weight: bold
 }
