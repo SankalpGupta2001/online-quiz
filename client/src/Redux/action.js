@@ -104,7 +104,6 @@ const getAllUserDataFailure = (payload) => {
   };
 };
 
-// ----------------------- details of user  for admin page  and delete user by admin ---------------
 
 
 export const getAllUserDataFromBackend = (payload) => (dispatch) => {
@@ -130,7 +129,7 @@ export const deleteUserByAdmin = (payload) => (dispatch) => {
     });
 };
 
-// ----------post quiz--------------
+
 
 export const postQuizObj = (obj) => (dispatch) => {
   axios
@@ -143,8 +142,7 @@ export const postQuizObj = (obj) => (dispatch) => {
     });
 };
 
-// ----------------------------- fetching quiz data subject wise -------------
-
+// - fetching quiz data subject wise 
 const fetchQuizRequest = (payload) => {
   return {
     type: types.FETCH_QUIZ_REQUEST,
@@ -181,9 +179,6 @@ export const getQuiz = (params) => (dispatch) => {
     });
 };
 
-//------------posting the user quiz result ------------
-
-//  -----------posting user result ------------
 
 export const postUserResult = (ans) => {
   return {
@@ -192,7 +187,6 @@ export const postUserResult = (ans) => {
   };
 };
 
-// ------action creator function and axios function =-------
 
 const postUserResultRequest = (ans) => {
   return {
