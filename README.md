@@ -29,6 +29,9 @@ Note :
 To show all questions in the quiz I have made db.json files so that others can also see all the questions. But if I will change the GET URL to localhost then questions will fetch from the MongoDB database. But in other systems localhost did not have  questions for quizzes  in the database. Due to this reason, I have made db.json files.
 
 
+Note : 
+
+For questions db.json and finaldb.json, I take these questions from my current project ( "QUESTIONS PARSER": this project is my academics project. so from here only I have taken all questions and added them to the assignment). I have worked for one year before on this project so I feel good to add questions from there as for reference in this assignment.
 
 
 
