@@ -19,7 +19,7 @@ Here are the steps that I have done in assignments.
 Note : 
 
 To see the admin page 
-search in search bar
+Search in the search bar
 ./localhost:3000/admin.
 so in the ./admin page will get the admin profile but the user can't see the list of users below and also can't add quiz questions to it only the admin can do this
 
@@ -31,7 +31,7 @@ To show all questions in the quiz I have made db.json files so that others can a
 
 Note : 
 
-For questions db.json and finaldb.json, I take these questions from my current project ( "QUESTIONS PARSER": this project is my academics project. so from here only I have taken all questions and added them to the assignment). I have worked for one year before on this project so I feel good to add questions from there as for reference in this assignment.
+For questions in  db.json and finaldb.json, I have these questions from myself  so I feel good to add these questions for reference in this assignment.
 
 
 
